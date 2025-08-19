@@ -1,57 +1,53 @@
-<h1 align="center">Hi 👋, I'm AL-Shalawi</h1>
+# Hi there, I'm AL-Shalawi 👋  
 
-<!-- Animated Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=500&lines=Front-End+Developer;React.js+%26+Tailwind;Open+for+Work+✔" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Front-End+Developer;React.js+Enthusiast;Open+for+Work!)](https://git.io/typing-svg)
 
 ---
 
-### 🔥 Stats & Activity
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xalmo0ne&label=Profile%20views&color=0e75b6&style=flat" alt="views badge" />
-  <img src="https://img.shields.io/github/last-commit/0xalmo0ne/Fresh-cart?color=green&style=flat-square" alt="last commit" />
-  <img src="https://img.shields.io/badge/Open%20for%20work-✔-brightgreen?style=flat-square" alt="open for work" />
-</p>
+## 🚀 About Me  
+💻 Front-End Developer specialized in **React.js**  
+🎨 Passionate about creating modern & responsive UI  
+🌍 Open for freelance & remote opportunities  
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,git,github,vscode" />
-</p>
+## 🛠️ Tech Stack  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)  
 
 ---
 
-### 🚀 Featured Projects
+## 🌐 My Projects  
 
-<table>
-<tr>
-<td align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200"/><br/>
-  <b>Fresh Cart</b><br/>
-  🛒 E-commerce with React + API
-</td>
-<td align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/><br/>
-  <b>UI Components</b><br/>
-  🎨 Reusable Tailwind components
-</td>
-</tr>
-</table>
+### 🍔 Food Yummy  
+A modern restaurant website built with React.js and TailwindCSS.  
+👉 [Live Demo](https://food-yummy7.vercel.app/)  
+
+![FoodYummy](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/food-yummy.gif)
 
 ---
 
-### 🤝 Connect with me
-<p align="center">
-  <a href="www.linkedin.com/in/muhammadeidal-shalawi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:MEDO200t@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/0xalmo0ne">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 🛒 Fresh Cart  
+An elegant e-commerce front-end app with product categories and cart system.  
+👉 [Live Demo](https://fresh-cart-one-rust.vercel.app/)  
+
+![FreshCart](https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/fresh-cart.gif)
+
+---
+
+## 📊 GitHub Stats  
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=0xalmo0ne)  
+![last commit](https://img.shields.io/github/last-commit/your-username/your-repo-name?color=green)  
+![open for work](https://img.shields.io/badge/Open%20For%20Work-Yes-brightgreen?style=for-the-badge)
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/muhammadeidal-shalawi")  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:MEDO200t@gmail.com)  
+
+
 
